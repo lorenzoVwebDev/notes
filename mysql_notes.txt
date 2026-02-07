@@ -1,0 +1,5 @@
+MySQL continue from page 126
+
+GO OVER from page 116
+
+CONTINUE EXCERCISES from number 9: https://www.w3resource.com/mysql-exercises/create-table-exercises/
