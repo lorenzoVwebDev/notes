@@ -1,3 +1,3 @@
-continue from https://laravel.com/docs/12.x/queries#select-statements Specifying a Select Clause
+continue from https://laravel.com/docs/12.x/queries#select-statements Subquery Joins
 
 practice: continue bulk-mailer (try use factories to seed data)
